@@ -1,4 +1,9 @@
 <div align="center">
+   <img src="https://github.com/Dev-Mao/Dev-Mao/assets/125046179/1d5f57e5-edf6-4e03-8b61-3fcd16d7d21d" alt="css3"/>
+ 
+<br><br>
+  
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&pause=500&color=F7F7F7&center=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mao;A++passionate+frontend+developer+from+Colombia" alt="Typing SVG" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
