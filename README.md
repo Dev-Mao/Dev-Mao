@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/Dev-Mao/Dev-Mao/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png?raw=true">
+   <img src="https://github.com/Dev-Mao/Dev-Mao/blob/4cda839805790f8691ddc1a86a92582fb8af3a2d/Black%20Modern%20Personal%20LinkedIn%20Banner.png">
 
  
 <br><br>
